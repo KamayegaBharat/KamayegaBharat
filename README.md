@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [sourav-bagchi-official.github,io](sourav-bagchi-official.github,io)
 
-- 📫 How to reach me **https://www.linkedin.com/in/sourav--bagchi**
+- 📫 How to reach me **souravbagchi9939@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
