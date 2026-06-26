@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Audit Forge AI](audit-forge-ai.github.io)
 
-- 👨‍💻 All of my projects are available at [sourav-bagchi-official.github.io](https://sourav-bagchi-official.github.io/))
+- 👨‍💻 All of my projects are available at [Sourav Bagchi Official](https://sourav-bagchi-official.github.io/))
 
 - 📫 How to reach me **souravbagchi9939@gmail.com**
 
